@@ -1,0 +1,16 @@
+Source,Target,Type,Id,Label,Weight,required_car_parking_spaces,reservation_status,reservation_status_date,name,email,phone-number,credit_card
+0,2,Undirected,167,,4,0,Check-Out,8/7/2015,Anthony James,Anthony_J@comcast.net,964-190-7428,************6865
+0,1,Undirected,125,,7,0,Check-Out,8/4/2015,Michael Welch,Michael_Welch@mail.com,647-424-5943,************7453
+0,0,Undirected,0,,14,0,Check-Out,8/5/2015,Kelly Flores,Kelly_Flores27@yandex.com,512-224-1701,************4592
+87.3,0,Undirected,184,,1,0,Canceled,5/14/2015,Molly Schultz,MSchultz71@hotmail.com,974-292-3185,************9039
+94,0,Undirected,28,,3,0,Check-Out,7/17/2015,Isaiah Orr,Isaiah.Orr@zoho.com,898-242-9723,************3636
+79.5,0,Undirected,26,,7,0,Canceled,5/23/2015,Roger Johnson,Roger_J@protonmail.com,935-381-8233,************3314
+63.6,0,Undirected,25,,1,1,Check-Out,7/8/2015,Alexis King,King_Alexis70@hotmail.com,103-516-5853,************6809
+107,0,Undirected,6,,26,0,Check-Out,7/31/2015,Alexis Henry,Alexis.H75@zoho.com,699-260-1111,************1233
+107,1,Undirected,210,,6,0,Check-Out,8/1/2015,Mrs. Kelly Dominguez,MDominguez61@xfinity.com,724-968-5293,************5570
+87.3,1,Undirected,29,,2,1,Check-Out,7/8/2015,Stephanie Rodriguez,Stephanie.R@mail.com,492-513-1267,************8024
+94.95,1,Undirected,24,,1,0,Check-Out,7/1/2015,Angie Sanchez,Angie_Sanchez@att.com,211-889-2476,************8871
+107,2,Undirected,27,,4,1,Check-Out,7/31/2015,Dylan Williams,DWilliams@comcast.net,817-423-3325,************6619
+87.3,2,Undirected,142,,2,0,Check-Out,7/12/2015,Roy Murphy,RMurphy52@yahoo.com,231-300-5662,************7716
+62,2,Undirected,30,,1,0,Check-Out,7/15/2015,Diamond Wilson,Wilson.Diamond@comcast.net,870-563-6202,************8017
+63.6,2,Undirected,155,,1,1,Check-Out,7/15/2015,Rose Gutierrez,Rose_G65@outlook.com,549-437-1292,************8779
